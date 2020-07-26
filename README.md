@@ -25,6 +25,11 @@ Then go to localhost:3000 on your local machine
 * [Node]
 * [Express]
 
+## Concepts explored
+
+1. Microservices
+2. Event-bus
+3. Basic front-end react
 
 ## Authors
 
