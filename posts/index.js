@@ -39,6 +39,7 @@ app.post('/events', (req,res) => {
 })
 
 app.listen(PORT, () => {
+    console.log('v23')
     console.log(`Listening on ${PORT}`);
 })
 
